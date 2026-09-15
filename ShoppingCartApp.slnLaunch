@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ShoppingCartApp\\ShoppingCartApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
