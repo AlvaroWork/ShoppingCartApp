@@ -7,6 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   
+  <ItemGroup>
+    <None Update="ShoppingList\HeavyShoppingList.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="ShoppingList\LightShoppingList.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="ShoppingList\MediumShoppingList.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  
 
 
 </Project>

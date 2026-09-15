@@ -1,0 +1,66 @@
+[
+{
+"Name": "Rice",
+"Weight": 5.0
+},
+{
+"Name": "Milk",
+"Weight": 6.0
+},
+{
+"Name": "Flour",
+"Weight": 2.0
+},
+{
+"Name": "Sugar",
+"Weight": 2.0
+},
+{
+"Name": "Potatoes",
+"Weight": 4.0
+},
+{
+"Name": "Water",
+"Weight": 3.0
+},
+{
+"Name": "Pasta",
+"Weight": 1.5
+},
+{
+"Name": "Cooking Oil",
+"Weight": 1.0
+},
+{
+"Name": "Cans of Tomato",
+"Weight": 2.5
+},
+{
+"Name": "Detergent",
+"Weight": 3.0
+},
+{
+"Name": "Cereal",
+"Weight": 1.2
+},
+{
+"Name": "Chicken",
+"Weight": 2.5
+},
+{
+"Name": "Soft Drinks",
+"Weight": 4.0
+},
+{
+"Name": "Fruit",
+"Weight": 2.0
+},
+{
+"Name": "Vegetables",
+"Weight": 1.5
+},
+{
+"Name": "Yogurts",
+"Weight": 1.0
+}
+]
